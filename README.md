@@ -2,7 +2,6 @@
 
 Welcome to my GitHub profile! I'm passionate about technology and innovation, with expertise spanning Python, Machine Learning, Deep Learning, Data Analysis, Robotics, and more.
 
-![Profile Banner](https://your-image-link.com/banner.jpg)
 
 ## 🌱 About Me
 - 🔭 I’m currently working on automating machine learning processes and writing algorithms for various applications.
