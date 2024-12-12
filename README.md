@@ -22,15 +22,12 @@ Welcome to my GitHub profile! I'm passionate about technology and innovation, wi
 - **Data Science:** Data Analysis, SQL, Power BI, Pandas, NumPy
 - **Robotics:** Integrating sensors with Raspberry Pi, Arduino Uno, ESP, Mega, and more.
 
-![Tech Stack](https://your-image-link.com/tech-stack.jpg)
-
 ## 📈 Projects
 - **Machine Learning Algorithms:** Automating the process of machine learning, writing custom algorithms for various applications.
 - **AI & Deep Learning:** Building deep learning models for real-world applications, including image and text processing.
 - **Data Science:** Working with datasets to extract meaningful insights and visualizing data trends.
 - **Robotics:** Integrating sensors with various hardware (Raspberry Pi, Arduino, ESP, etc.) for real-time applications.
 
-![Robotics Project](https://your-image-link.com/robotics-project.jpg)
 
 ## 📬 Let's Connect!
 Feel free to explore my repositories, and let’s collaborate on exciting projects! If you're interested in discussing tech, AI, or robotics, don’t hesitate to reach out to me via email or check out my portfolio.
