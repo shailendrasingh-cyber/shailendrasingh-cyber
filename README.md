@@ -87,17 +87,6 @@ Welcome to my GitHub! I specialize in building **intelligent systems that combin
 
 ---
 
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shailendrasingh-cyber&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shailendrasingh-cyber&theme=tokyonight" />
-</p>
-
----
 
 ## 🎯 Current Focus  
 
